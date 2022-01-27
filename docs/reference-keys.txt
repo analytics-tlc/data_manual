@@ -19,7 +19,7 @@ open-data-database
 open-data
 proxy-settings
 tasks-checkups
-trello
+ms-planner
 weekly-meetings
 evaluations
 other-teams-contacts
